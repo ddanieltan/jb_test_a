@@ -68,3 +68,9 @@ print(f'test test test')
 
 I hope this is in **markdown**
 
+print('change')
+
+import altair as alt
+
+print('this should be hidden')
+

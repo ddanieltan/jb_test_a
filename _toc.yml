@@ -1,5 +1,8 @@
 - file: chapters/intro
+  numbered: true
 - file: chapters/content
+  numbered: true
   sections:
     - file: chapters/markdown
     - file: chapters/notebooks
+    - file: chapters/new
